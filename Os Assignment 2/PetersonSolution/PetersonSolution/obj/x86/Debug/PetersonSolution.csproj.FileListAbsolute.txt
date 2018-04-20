@@ -1,0 +1,8 @@
+c:\users\ramarimo\documents\visual studio 2010\Projects\PetersonSolution\PetersonSolution\bin\Debug\PetersonSolution.exe
+c:\users\ramarimo\documents\visual studio 2010\Projects\PetersonSolution\PetersonSolution\bin\Debug\PetersonSolution.pdb
+c:\users\ramarimo\documents\visual studio 2010\Projects\PetersonSolution\PetersonSolution\obj\x86\Debug\PetersonSolution.exe
+c:\users\ramarimo\documents\visual studio 2010\Projects\PetersonSolution\PetersonSolution\obj\x86\Debug\PetersonSolution.pdb
+G:\studies\year 2 semester 1 studies\operating systems\Os Assignment 2\PetersonSolution\PetersonSolution\obj\x86\Debug\PetersonSolution.exe
+G:\studies\year 2 semester 1 studies\operating systems\Os Assignment 2\PetersonSolution\PetersonSolution\obj\x86\Debug\PetersonSolution.pdb
+G:\studies\year 2 semester 1 studies\operating systems\Os Assignment 2\PetersonSolution\PetersonSolution\bin\Debug\PetersonSolution.exe
+G:\studies\year 2 semester 1 studies\operating systems\Os Assignment 2\PetersonSolution\PetersonSolution\bin\Debug\PetersonSolution.pdb

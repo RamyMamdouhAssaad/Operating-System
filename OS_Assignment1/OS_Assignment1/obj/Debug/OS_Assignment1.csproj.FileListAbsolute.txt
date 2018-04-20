@@ -1,0 +1,6 @@
+c:\users\mena108\documents\visual studio 2013\Projects\OS_Assignment1\OS_Assignment1\bin\Debug\OS_Assignment1.exe.config
+c:\users\mena108\documents\visual studio 2013\Projects\OS_Assignment1\OS_Assignment1\bin\Debug\OS_Assignment1.exe
+c:\users\mena108\documents\visual studio 2013\Projects\OS_Assignment1\OS_Assignment1\bin\Debug\OS_Assignment1.pdb
+c:\users\mena108\documents\visual studio 2013\Projects\OS_Assignment1\OS_Assignment1\obj\Debug\OS_Assignment1.csprojResolveAssemblyReference.cache
+c:\users\mena108\documents\visual studio 2013\Projects\OS_Assignment1\OS_Assignment1\obj\Debug\OS_Assignment1.exe
+c:\users\mena108\documents\visual studio 2013\Projects\OS_Assignment1\OS_Assignment1\obj\Debug\OS_Assignment1.pdb

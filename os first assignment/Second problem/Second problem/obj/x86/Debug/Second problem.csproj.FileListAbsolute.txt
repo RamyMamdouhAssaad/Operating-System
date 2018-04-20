@@ -1,0 +1,9 @@
+c:\users\ramarimo\documents\visual studio 2010\Projects\Second problem\Second problem\bin\Debug\Second problem.exe
+c:\users\ramarimo\documents\visual studio 2010\Projects\Second problem\Second problem\bin\Debug\Second problem.pdb
+c:\users\ramarimo\documents\visual studio 2010\Projects\Second problem\Second problem\obj\x86\Debug\Second problem.exe
+c:\users\ramarimo\documents\visual studio 2010\Projects\Second problem\Second problem\obj\x86\Debug\Second problem.pdb
+G:\studies\year 2 semester 1 studies\operating systems\os first assignment\Second problem\Second problem\obj\x86\Debug\Second problem.exe
+G:\studies\year 2 semester 1 studies\operating systems\os first assignment\Second problem\Second problem\obj\x86\Debug\Second problem.pdb
+G:\studies\year 2 semester 1 studies\operating systems\os first assignment\Second problem\Second problem\bin\Debug\Second problem.exe
+G:\studies\year 2 semester 1 studies\operating systems\os first assignment\Second problem\Second problem\bin\Debug\Second problem.pdb
+G:\studies\year 2 semester 1 studies\operating systems\os first assignment\Second problem\Second problem\obj\x86\Debug\Second problem.csprojResolveAssemblyReference.cache

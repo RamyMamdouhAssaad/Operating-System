@@ -1,0 +1,8 @@
+c:\users\ramarimo\documents\visual studio 2010\Projects\firstproblem\firstproblem\bin\Debug\firstproblem.exe
+c:\users\ramarimo\documents\visual studio 2010\Projects\firstproblem\firstproblem\bin\Debug\firstproblem.pdb
+c:\users\ramarimo\documents\visual studio 2010\Projects\firstproblem\firstproblem\obj\x86\Debug\firstproblem.exe
+c:\users\ramarimo\documents\visual studio 2010\Projects\firstproblem\firstproblem\obj\x86\Debug\firstproblem.pdb
+G:\studies\year 2 semester 1 studies\operating systems\os first assignment\firstproblem\firstproblem\obj\x86\Debug\firstproblem.exe
+G:\studies\year 2 semester 1 studies\operating systems\os first assignment\firstproblem\firstproblem\obj\x86\Debug\firstproblem.pdb
+G:\studies\year 2 semester 1 studies\operating systems\os first assignment\firstproblem\firstproblem\bin\Debug\firstproblem.exe
+G:\studies\year 2 semester 1 studies\operating systems\os first assignment\firstproblem\firstproblem\bin\Debug\firstproblem.pdb

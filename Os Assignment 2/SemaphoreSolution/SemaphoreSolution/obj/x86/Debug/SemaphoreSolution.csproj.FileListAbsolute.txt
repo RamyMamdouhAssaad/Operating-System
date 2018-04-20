@@ -1,0 +1,9 @@
+c:\users\ramarimo\documents\visual studio 2010\Projects\SemaphoreSolution\SemaphoreSolution\bin\Debug\SemaphoreSolution.exe
+c:\users\ramarimo\documents\visual studio 2010\Projects\SemaphoreSolution\SemaphoreSolution\bin\Debug\SemaphoreSolution.pdb
+c:\users\ramarimo\documents\visual studio 2010\Projects\SemaphoreSolution\SemaphoreSolution\obj\x86\Debug\SemaphoreSolution.exe
+c:\users\ramarimo\documents\visual studio 2010\Projects\SemaphoreSolution\SemaphoreSolution\obj\x86\Debug\SemaphoreSolution.pdb
+G:\studies\year 2 semester 1 studies\operating systems\Os Assignment 2\SemaphoreSolution\SemaphoreSolution\obj\x86\Debug\SemaphoreSolution.exe
+G:\studies\year 2 semester 1 studies\operating systems\Os Assignment 2\SemaphoreSolution\SemaphoreSolution\obj\x86\Debug\SemaphoreSolution.pdb
+G:\studies\year 2 semester 1 studies\operating systems\Os Assignment 2\SemaphoreSolution\SemaphoreSolution\bin\Debug\SemaphoreSolution.exe
+G:\studies\year 2 semester 1 studies\operating systems\Os Assignment 2\SemaphoreSolution\SemaphoreSolution\bin\Debug\SemaphoreSolution.pdb
+G:\studies\year 2 semester 1 studies\operating systems\Os Assignment 2\SemaphoreSolution\SemaphoreSolution\obj\x86\Debug\SemaphoreSolution.csprojResolveAssemblyReference.cache
